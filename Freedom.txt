@@ -1,0 +1,2 @@
+print("Freedom");
+print("New string");
